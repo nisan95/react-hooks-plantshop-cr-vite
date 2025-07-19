@@ -1,46 +1,202 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
       "image": "./images/aloe.jpg",
       "price": 15.99
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
       "price": 25.98
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
       "price": 5.99
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
       "image": "./images/pothos.jpg",
       "price": 12.11
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jade",
       "image": "./images/jade.jpg",
       "price": 10.37
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
       "price": 25.99
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "f175",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "a263",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "96ec",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "4d28",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "084d",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "8249",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "14c4",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "4e28",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "5ea9",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "a9b4",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "5943",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "c610",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "58d4",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "b813",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "1af3",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "a024",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "2cbc",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "f5f5",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "8a49",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "12c3",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "6f79",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "8b48",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "391d",
+      "name": "epipremnum",
+      "image": "./images/epipremnum.jpg",
+      "price": 2.58
+    },
+    {
+      "id": "8340",
+      "name": "jolie plante",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bergamotte.fr%2Fle-journal-vegetal%2Fplantes%2Fastuces-entretien-plantes%2Fgrandes-plantes-d-interieur&psig=AOvVaw33uXWoH0aQydi-v7Och6p2&ust=1752263036156000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDd79KGs44DFQAAAAAdAAAAABAL",
+      "price": 4.4
+    },
+    {
+      "id": "56e9",
+      "name": "",
+      "image": "",
+      "price": null
+    },
+    {
+      "id": "9a0f",
+      "name": "gwo pye bwa",
+      "image": "./images/pilea.jpg",
+      "price": 13
     }
   ]
 }
